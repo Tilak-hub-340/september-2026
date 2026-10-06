@@ -1,4 +1,4 @@
-[A[B[A[C[C[C[C[C[C[C[C[C[C[[A[B[D[D[D[D[D[D[D[D[D[D# September 2026
+# September 2026
 
 My learning and development journey for September 2026.
 
@@ -35,3 +35,29 @@ Weekly review and correction plan.
 ```text
 week-1/
 research-notebook/
+
+# September 2026 Engineering Roadmap
+
+This repository tracks my engineering, AI, research, DSA, and mathematics work.
+
+## Structure
+
+- `cli/` — Command-line engineering projects
+- `api/` — API projects
+- `ml/` — Machine learning experiments
+- `research/` — Research notes and experiments
+- `log/` — Learning and engineering logs
+- `math/` — Mathematics practice and mistakes
+- `dsa/` — Data structures and algorithms practice
+
+## Current Focus
+
+- Python engineering
+- CLI development
+- Git/GitHub
+- Machine learning
+- AI-agent reliability research
+- DSA
+- Mathematics
+
+
